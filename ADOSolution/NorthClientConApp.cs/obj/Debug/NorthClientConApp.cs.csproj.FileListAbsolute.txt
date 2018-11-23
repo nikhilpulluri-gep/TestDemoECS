@@ -1,0 +1,20 @@
+c:\users\nikhil.pulluri\source\repos\ADOSolution\NorthClientConApp.cs\obj\Debug\NorthClientConApp.cs.csprojAssemblyReference.cache
+c:\users\nikhil.pulluri\source\repos\ADOSolution\NorthClientConApp.cs\obj\Debug\NorthClientConApp.cs.csproj.CoreCompileInputs.cache
+c:\users\nikhil.pulluri\source\repos\ADOSolution\NorthClientConApp.cs\bin\Debug\NorthClientConApp.cs.exe.config
+c:\users\nikhil.pulluri\source\repos\ADOSolution\NorthClientConApp.cs\bin\Debug\NorthClientConApp.cs.exe
+c:\users\nikhil.pulluri\source\repos\ADOSolution\NorthClientConApp.cs\bin\Debug\NorthClientConApp.cs.pdb
+c:\users\nikhil.pulluri\source\repos\ADOSolution\NorthClientConApp.cs\bin\Debug\NorthwindDALLibrary.dll
+c:\users\nikhil.pulluri\source\repos\ADOSolution\NorthClientConApp.cs\bin\Debug\NorthwindDALLibrary.pdb
+c:\users\nikhil.pulluri\source\repos\ADOSolution\NorthClientConApp.cs\obj\Debug\NorthClientConApp.cs.csproj.CopyComplete
+c:\users\nikhil.pulluri\source\repos\ADOSolution\NorthClientConApp.cs\obj\Debug\NorthClientConApp.cs.exe
+c:\users\nikhil.pulluri\source\repos\ADOSolution\NorthClientConApp.cs\obj\Debug\NorthClientConApp.cs.pdb
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\NorthClientConApp.cs\bin\Debug\NorthClientConApp.cs.exe.config
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\NorthClientConApp.cs\bin\Debug\NorthClientConApp.cs.exe
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\NorthClientConApp.cs\bin\Debug\NorthClientConApp.cs.pdb
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\NorthClientConApp.cs\bin\Debug\NorthwindDALLibrary.dll
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\NorthClientConApp.cs\bin\Debug\NorthwindDALLibrary.pdb
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\NorthClientConApp.cs\obj\Debug\NorthClientConApp.cs.csprojAssemblyReference.cache
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\NorthClientConApp.cs\obj\Debug\NorthClientConApp.cs.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\NorthClientConApp.cs\obj\Debug\NorthClientConApp.cs.csproj.CopyComplete
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\NorthClientConApp.cs\obj\Debug\NorthClientConApp.cs.exe
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\NorthClientConApp.cs\obj\Debug\NorthClientConApp.cs.pdb

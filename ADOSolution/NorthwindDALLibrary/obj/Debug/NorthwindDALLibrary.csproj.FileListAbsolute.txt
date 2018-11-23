@@ -1,0 +1,12 @@
+c:\users\nikhil.pulluri\source\repos\ADOSolution\NorthwindDALLibrary\bin\Debug\NorthwindDALLibrary.dll
+c:\users\nikhil.pulluri\source\repos\ADOSolution\NorthwindDALLibrary\bin\Debug\NorthwindDALLibrary.pdb
+c:\users\nikhil.pulluri\source\repos\ADOSolution\NorthwindDALLibrary\obj\Debug\NorthwindDALLibrary.csprojAssemblyReference.cache
+c:\users\nikhil.pulluri\source\repos\ADOSolution\NorthwindDALLibrary\obj\Debug\NorthwindDALLibrary.csproj.CoreCompileInputs.cache
+c:\users\nikhil.pulluri\source\repos\ADOSolution\NorthwindDALLibrary\obj\Debug\NorthwindDALLibrary.dll
+c:\users\nikhil.pulluri\source\repos\ADOSolution\NorthwindDALLibrary\obj\Debug\NorthwindDALLibrary.pdb
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\NorthwindDALLibrary\bin\Debug\NorthwindDALLibrary.dll
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\NorthwindDALLibrary\bin\Debug\NorthwindDALLibrary.pdb
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\NorthwindDALLibrary\obj\Debug\NorthwindDALLibrary.csprojAssemblyReference.cache
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\NorthwindDALLibrary\obj\Debug\NorthwindDALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\NorthwindDALLibrary\obj\Debug\NorthwindDALLibrary.dll
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\NorthwindDALLibrary\obj\Debug\NorthwindDALLibrary.pdb

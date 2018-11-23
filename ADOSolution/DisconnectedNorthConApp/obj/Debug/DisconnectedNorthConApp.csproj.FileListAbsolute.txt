@@ -1,0 +1,14 @@
+c:\users\nikhil.pulluri\source\repos\ADOSolution\DisconnectedNorthConApp\obj\Debug\DisconnectedNorthConApp.csprojAssemblyReference.cache
+c:\users\nikhil.pulluri\source\repos\ADOSolution\DisconnectedNorthConApp\obj\Debug\DisconnectedNorthConApp.csproj.CoreCompileInputs.cache
+c:\users\nikhil.pulluri\source\repos\ADOSolution\DisconnectedNorthConApp\bin\Debug\DisconnectedNorthConApp.exe.config
+c:\users\nikhil.pulluri\source\repos\ADOSolution\DisconnectedNorthConApp\bin\Debug\DisconnectedNorthConApp.exe
+c:\users\nikhil.pulluri\source\repos\ADOSolution\DisconnectedNorthConApp\bin\Debug\DisconnectedNorthConApp.pdb
+c:\users\nikhil.pulluri\source\repos\ADOSolution\DisconnectedNorthConApp\obj\Debug\DisconnectedNorthConApp.exe
+c:\users\nikhil.pulluri\source\repos\ADOSolution\DisconnectedNorthConApp\obj\Debug\DisconnectedNorthConApp.pdb
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\DisconnectedNorthConApp\bin\Debug\DisconnectedNorthConApp.exe.config
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\DisconnectedNorthConApp\bin\Debug\DisconnectedNorthConApp.exe
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\DisconnectedNorthConApp\bin\Debug\DisconnectedNorthConApp.pdb
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\DisconnectedNorthConApp\obj\Debug\DisconnectedNorthConApp.csprojAssemblyReference.cache
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\DisconnectedNorthConApp\obj\Debug\DisconnectedNorthConApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\DisconnectedNorthConApp\obj\Debug\DisconnectedNorthConApp.exe
+C:\Users\Nikhil.Pulluri\GET Training\ADOSolution\DisconnectedNorthConApp\obj\Debug\DisconnectedNorthConApp.pdb
